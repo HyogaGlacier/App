@@ -15,6 +15,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.hyoga.splitthecost.SettingPrefActivity"
+            android:label="@string/setting_name"/>
     </application>
 
 </manifest>
